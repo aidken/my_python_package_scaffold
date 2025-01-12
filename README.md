@@ -1,6 +1,6 @@
 # My Python package scaffolding
 
-<!-- cSpell:ignore pytest -->
+<!-- cSpell:ignore pytest pyproject -->
 
 Sunday, January 12, 2025
 
@@ -14,3 +14,9 @@ I do not put my package in [PyPI](https://pypi.org/). Download the package, mayb
 After installation, you can optionally run tests with [pytest](https://docs.pytest.org/).
 
 `pytest ./tests`
+
+
+
+## what I don't understand...
+
+`pyproject.toml` and `setup.py` has many settings in common. What is `pyproject.toml` for?
